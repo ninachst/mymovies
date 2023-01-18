@@ -10,7 +10,7 @@
    
 ### dependencies
 
-###author 
-
-###licence
-###help
+### Author 
+:bust_in_silhouette: [@ninachst](https://github.com/ninachst)  
+### licence
+### help
